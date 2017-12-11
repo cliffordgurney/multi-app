@@ -3,8 +3,17 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## Development server
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+### Run different entry points
+
+> Integer index counts as an array, eg. starting number `0`
+
+```npm start --app 0```
+
+```npm start --app 1```
+
+
 
 ## Code scaffolding
 
